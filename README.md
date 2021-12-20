@@ -1,4 +1,4 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b> Profile </b></h3>
 </br>
 <p align="center">
 <a href="https://sws1223.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/서우석 블로그-000000?style=plastic&logo=Bloglovin&logoColor=white"/></a>
