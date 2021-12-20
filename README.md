@@ -5,6 +5,10 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails&logoColor=white"/>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooseok1223&show_icons=true&theme=radical)
+
+
 <!--
 **wooseok1223/wooseok1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
