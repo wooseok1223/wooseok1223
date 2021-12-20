@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Rails-CC0000?style=plastic&logo=Rails&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails&logoColor=white"/></a>
 
 <!--
 **wooseok1223/wooseok1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
