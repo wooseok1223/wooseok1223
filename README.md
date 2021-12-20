@@ -2,10 +2,13 @@
 
 <a href="https://sws1223.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/서우석 블로그-000000?style=plastic&logo=Bloglovin&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails&logoColor=white"/>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails&logoColor=white"/></a> &nbsp </p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooseok1223&show_icons=true&theme=radical)
