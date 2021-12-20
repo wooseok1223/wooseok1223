@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://sws1223.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Bloglovin-000000?style=plastic&logo=Bloglovin&logoColor=white"/></a>
+<a href="https://sws1223.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/서우석 블로그-000000?style=plastic&logo=Bloglovin&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
