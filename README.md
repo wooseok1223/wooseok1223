@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails&logoColor=white"/></a>
 
 <!--
 **wooseok1223/wooseok1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
