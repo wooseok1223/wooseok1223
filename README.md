@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails&logoColor=white"/></a> &nbsp </p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=plastic&logo=Ruby on Rails&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a> &nbsp </p>
 </br>
 
